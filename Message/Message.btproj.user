@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{EF7E3281-CD33-11D4-8326-00C04FA0CE8D}">
+        <Files>
+		<File Path="CustomerInfo.xsd">
+			<ValidateTestMapInput>True</ValidateTestMapInput>
+			<ValidateTestMapOutput>True</ValidateTestMapOutput>
+			<TestMapInputInstanceFilename></TestMapInputInstanceFilename>
+			<TestMapOutputInstanceFilename></TestMapOutputInstanceFilename>
+			<TestMapSourceType>0</TestMapSourceType>
+			<TestMapTargetType>0</TestMapTargetType>
+			<EditorOutputInstanceFilename></EditorOutputInstanceFilename>
+			<EditorInputInstanceFilename></EditorInputInstanceFilename>
+			<GenerateInstanceOutputType>0</GenerateInstanceOutputType>
+			<ValidateInstanceInputType>0</ValidateInstanceInputType>
+			<PropertySchemaFileName>PropertySchema.xsd</PropertySchemaFileName>
+			<AutoRefreshSchema>0</AutoRefreshSchema>
+		</File>
+		<File Path="LoanApp.xsd">
+			<ValidateTestMapInput>True</ValidateTestMapInput>
+			<ValidateTestMapOutput>True</ValidateTestMapOutput>
+			<TestMapInputInstanceFilename></TestMapInputInstanceFilename>
+			<TestMapOutputInstanceFilename></TestMapOutputInstanceFilename>
+			<TestMapSourceType>0</TestMapSourceType>
+			<TestMapTargetType>0</TestMapTargetType>
+			<EditorOutputInstanceFilename></EditorOutputInstanceFilename>
+			<EditorInputInstanceFilename></EditorInputInstanceFilename>
+			<GenerateInstanceOutputType>0</GenerateInstanceOutputType>
+			<ValidateInstanceInputType>0</ValidateInstanceInputType>
+			<PropertySchemaFileName>PropertySchema.xsd</PropertySchemaFileName>
+			<AutoRefreshSchema>0</AutoRefreshSchema>
+		</File>
+		<File Path="PurchaseOrder.xsd">
+			<ValidateTestMapInput>True</ValidateTestMapInput>
+			<ValidateTestMapOutput>True</ValidateTestMapOutput>
+			<TestMapInputInstanceFilename></TestMapInputInstanceFilename>
+			<TestMapOutputInstanceFilename></TestMapOutputInstanceFilename>
+			<TestMapSourceType>0</TestMapSourceType>
+			<TestMapTargetType>0</TestMapTargetType>
+			<EditorOutputInstanceFilename></EditorOutputInstanceFilename>
+			<EditorInputInstanceFilename></EditorInputInstanceFilename>
+			<GenerateInstanceOutputType>0</GenerateInstanceOutputType>
+			<ValidateInstanceInputType>0</ValidateInstanceInputType>
+			<PropertySchemaFileName>PropertySchema.xsd</PropertySchemaFileName>
+			<AutoRefreshSchema>0</AutoRefreshSchema>
+		</File>
+		<File Path="PurchaseOrderFF.xsd">
+			<ValidateTestMapInput>True</ValidateTestMapInput>
+			<ValidateTestMapOutput>True</ValidateTestMapOutput>
+			<TestMapInputInstanceFilename></TestMapInputInstanceFilename>
+			<TestMapOutputInstanceFilename></TestMapOutputInstanceFilename>
+			<TestMapSourceType>0</TestMapSourceType>
+			<TestMapTargetType>0</TestMapTargetType>
+			<EditorOutputInstanceFilename></EditorOutputInstanceFilename>
+			<EditorInputInstanceFilename>C:\Users\jwang\Documents\BizTalk\AllFiles\DemoCode\Module2\PurchaseOrderFF.txt</EditorInputInstanceFilename>
+			<GenerateInstanceOutputType>0</GenerateInstanceOutputType>
+			<ValidateInstanceInputType>1</ValidateInstanceInputType>
+			<PropertySchemaFileName>PropertySchema.xsd</PropertySchemaFileName>
+			<AutoRefreshSchema>0</AutoRefreshSchema>
+		</File>
+		<File Path="SalesOrder.xsd">
+			<ValidateTestMapInput>True</ValidateTestMapInput>
+			<ValidateTestMapOutput>True</ValidateTestMapOutput>
+			<TestMapInputInstanceFilename></TestMapInputInstanceFilename>
+			<TestMapOutputInstanceFilename></TestMapOutputInstanceFilename>
+			<TestMapSourceType>0</TestMapSourceType>
+			<TestMapTargetType>0</TestMapTargetType>
+			<EditorOutputInstanceFilename>C:\Users\jwang\Documents\Test\BizTalkProject1\Message\SalesOrder-Gen.xml</EditorOutputInstanceFilename>
+			<EditorInputInstanceFilename>C:\Users\jwang\Documents\Test\BizTalkProject1\Message\SalesOrder1.xml</EditorInputInstanceFilename>
+			<GenerateInstanceOutputType>0</GenerateInstanceOutputType>
+			<ValidateInstanceInputType>0</ValidateInstanceInputType>
+			<PropertySchemaFileName>PropertySchema.xsd</PropertySchemaFileName>
+			<AutoRefreshSchema>0</AutoRefreshSchema>
+		</File>
+		<File Path="SalesOrder_FF.xsd">
+			<ValidateTestMapInput>True</ValidateTestMapInput>
+			<ValidateTestMapOutput>True</ValidateTestMapOutput>
+			<TestMapInputInstanceFilename></TestMapInputInstanceFilename>
+			<TestMapOutputInstanceFilename></TestMapOutputInstanceFilename>
+			<TestMapSourceType>0</TestMapSourceType>
+			<TestMapTargetType>0</TestMapTargetType>
+			<EditorOutputInstanceFilename></EditorOutputInstanceFilename>
+			<EditorInputInstanceFilename>C:\Users\jwang\Documents\BizTalk\AllFiles\LabFiles\Lab2\SalesOrder_FF_Sample.txt</EditorInputInstanceFilename>
+			<GenerateInstanceOutputType>0</GenerateInstanceOutputType>
+			<ValidateInstanceInputType>1</ValidateInstanceInputType>
+			<PropertySchemaFileName>PropertySchema.xsd</PropertySchemaFileName>
+			<AutoRefreshSchema>0</AutoRefreshSchema>
+		</File>
+	</Files>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
